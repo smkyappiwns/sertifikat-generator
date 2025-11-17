@@ -1,72 +1,40 @@
-🏆 Sertifikat Generator – SMK YAPPI Wonosari
+# 🏆 Sertifikat Generator – SMK YAPPI Wonosari
 
-Sertifikat Generator adalah aplikasi berbasis web yang dibuat untuk memudahkan proses pembuatan sertifikat secara cepat, praktis, dan otomatis tanpa perlu mengedit manual satu per satu.
-Aplikasi ini berjalan sepenuhnya di browser (client-side), sehingga data aman, tidak perlu server, dan bisa digunakan kapan saja.
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![License](https://img.shields.io/badge/License-Free-blue)
+![Build](https://img.shields.io/badge/Build-Static%20Web-orange)
 
-🌐 Demo / Halaman Aplikasi:
+**Sertifikat Generator** adalah aplikasi web sederhana untuk membuat sertifikat secara otomatis dan cepat.  
+Aplikasi ini dirancang agar mudah digunakan oleh guru, panitia, dan admin sekolah tanpa perlu software desain tambahan.
+
+🌐 **Aplikasi Siap Pakai:**  
 👉 https://smkyappiwns.github.io/sertifikat-generator/
 
-✨ Fitur Utama
+---
 
-📝 Input Data Penerima Sertifikat (nama, acara, tanggal, dan informasi lain)
+## ✨ Fitur Utama
 
-🖼️ Unggah Template Sertifikat (format gambar JPG/PNG)
+- 🖼️ **Unggah Template Sertifikat** (PNG/JPG)
+- 📝 **Input Nama / Data Peserta**
+- 🎛️ **Atur Posisi & Ukuran Teks Secara Real-time**
+- 📄 **Support Generate Satu atau Banyak Sertifikat**
+- 💾 **Export Sertifikat ke File Gambar**
+- 🚀 **Berjalan 100% di Browser (No Backend)**
+- 📱 **Responsive, bisa digunakan via HP atau Laptop**
 
-🎛️ Atur Posisi dan Ukuran Teks langsung di layar
+---
 
-💾 Export Sertifikat ke gambar siap cetak
+## 🚀 Cara Menggunakan
 
-📦 Generate Massal dari file Excel/CSV (jika fitur ini tersedia di aplikasi Anda)
+1. Buka aplikasi:  
+   https://smkyappiwns.github.io/sertifikat-generator/
+2. Unggah template sertifikat.
+3. Masukkan nama peserta atau unggah file peserta (opsional).
+4. Atur posisi teks sesuai kebutuhan.
+5. Klik **Generate** untuk membuat sertifikat.
+6. Simpan hasilnya dalam format gambar.
 
-🧩 Tidak membutuhkan backend, berjalan 100% di browser
+---
 
-📱 Responsif, bisa digunakan di laptop maupun HP
+## 📂 Struktur Proyek
 
-🚀 Cara Menggunakan
-
-Buka halaman aplikasi
-https://smkyappiwns.github.io/sertifikat-generator/
-
-Unggah template sertifikat (JPG/PNG).
-
-Masukkan nama atau data peserta.
-
-Atur posisi teks sesuai kebutuhan.
-
-Klik Generate / Download untuk mengunduh sertifikat.
-
-Jika punya file banyak nama, unggah list (Excel/CSV) untuk generate massal.
-
-🛠️ Teknologi yang Digunakan
-
-HTML5 – struktur halaman
-
-CSS3 – styling antarmuka
-
-JavaScript – proses generate sertifikat
-
-Canvas API – menggambar teks di atas template
-
-GitHub Pages – hosting aplikasi statis
-
-📸 Screenshot (opsional)
-
-Tambahkan gambar contoh hasil atau UI di sini jika diperlukan.
-
-🤝 Kontribusi
-
-Silakan kontribusi dengan:
-
-Menambah fitur
-
-Memperbaiki bug
-
-Mengoptimalkan UI
-
-Membuat dokumentasi
-
-Cukup lakukan pull request setelah melakukan perubahan.
-
-📜 Lisensi
-
-Proyek ini dapat digunakan untuk keperluan sekolah, pelatihan, atau kegiatan internal lainnya.
