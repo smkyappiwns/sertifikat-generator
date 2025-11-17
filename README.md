@@ -36,5 +36,51 @@ Aplikasi ini dirancang agar mudah digunakan oleh guru, panitia, dan admin sekola
 
 ---
 
-## 📂 Struktur Proyek
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Canvas API**
+- **GitHub Pages**
+
+---
+
+## 📸 Screenshot
+
+> (Tambahkan screenshot aplikasi jika diperlukan untuk dokumentasi.)
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi sangat terbuka!  
+Anda dapat membantu dengan:
+
+- Menambahkan fitur baru  
+- Memperbaiki bug  
+- Mengoptimalkan UI/UX  
+- Menambah dokumentasi  
+
+Silakan buat **Pull Request** jika ingin menambah perubahan.
+
+---
+
+## 📜 Lisensi
+
+Proyek ini bebas digunakan untuk keperluan pendidikan, pelatihan, dan kegiatan internal sekolah.
+
+---
+
+## ✉️ Kontak
+
+Untuk pengembangan atau kerjasama lebih lanjut:  
+**SMK YAPPI Wonosari** – Bidang Pengembangan Digital Sekolah.
+
+---
+
+Jika Anda ingin README ini **ditambah screenshot, demo GIF, atau penjelasan fitur massal**, tinggal bilang saja!  
 
